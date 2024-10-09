@@ -1,3 +1,5 @@
+![LOGO](IMAGES/cryptocurrency.png)
+
 ### Clustering Cryptocurrencies with Machine Learning (Challenge 19)
 
 This repository hosts a mini-project where a K-means model was utilized to cluster various cryptocurrencies.
